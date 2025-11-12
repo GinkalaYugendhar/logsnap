@@ -1,0 +1,1215 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "fullName": "John Doe",
+      "email": "john.doe1@example.com",
+      "password": "hashed_password_1",
+      "mobile": "+12345678901",
+      "role": "ADMIN",
+      "enabled": true,
+      "createdAt": "2025-01-01T10:00:00Z"
+    },
+    {
+      "id": 2,
+      "fullName": "Jane Smith",
+      "email": "jane.smith@example.com",
+      "password": "hashed_password_2",
+      "mobile": "+12345678902",
+      "role": "EMPLOYEE",
+      "enabled": true,
+      "createdAt": "2025-01-02T12:00:00Z"
+    },
+    {
+      "id": 3,
+      "fullName": "Michael Brown",
+      "email": "michael.brown@example.com",
+      "password": "hashed_password_3",
+      "mobile": "+12345678903",
+      "role": "EMPLOYEE",
+      "enabled": true,
+      "createdAt": "2025-01-03T09:00:00Z"
+    },
+    {
+      "id": 4,
+      "fullName": "Emily Davis",
+      "email": "emily.davis@example.com",
+      "password": "hashed_password_4",
+      "mobile": "+12345678904",
+      "role": "EMPLOYEE",
+      "enabled": true,
+      "createdAt": "2025-01-04T11:00:00Z"
+    },
+    {
+      "id": 5,
+      "fullName": "David Wilson",
+      "email": "david.wilson@example.com",
+      "password": "hashed_password_5",
+      "mobile": "+12345678905",
+      "role": "EMPLOYEE",
+      "enabled": false,
+      "createdAt": "2025-01-05T14:00:00Z"
+    },
+    {
+      "id": 6,
+      "fullName": "Sarah Johnson",
+      "email": "sarah.johnson@example.com",
+      "password": "hashed_password_6",
+      "mobile": "+12345678906",
+      "role": "EMPLOYEE",
+      "enabled": true,
+      "createdAt": "2025-01-06T08:00:00Z"
+    },
+    {
+      "id": 7,
+      "fullName": "Robert Taylor",
+      "email": "robert.taylor@example.com",
+      "password": "hashed_password_7",
+      "mobile": "+12345678907",
+      "role": "EMPLOYEE",
+      "enabled": true,
+      "createdAt": "2025-01-07T13:00:00Z"
+    },
+    {
+      "id": 8,
+      "fullName": "Laura Martinez",
+      "email": "laura.martinez@example.com",
+      "password": "hashed_password_8",
+      "mobile": "+12345678908",
+      "role": "EMPLOYEE",
+      "enabled": true,
+      "createdAt": "2025-01-08T10:00:00Z"
+    },
+    {
+      "id": 9,
+      "fullName": "James Anderson",
+      "email": "james.anderson@example.com",
+      "password": "hashed_password_9",
+      "mobile": "+12345678909",
+      "role": "EMPLOYEE",
+      "enabled": true,
+      "createdAt": "2025-01-09T15:00:00Z"
+    },
+    {
+      "id": 10,
+      "fullName": "Lisa Thomas",
+      "email": "lisa.thomas@example.com",
+      "password": "hashed_password_10",
+      "mobile": "+12345678910",
+      "role": "EMPLOYEE",
+      "enabled": true,
+      "createdAt": "2025-01-10T09:00:00Z"
+    },
+    {
+      "id": 11,
+      "fullName": "Thomas Lee",
+      "email": "thomas.lee@example.com",
+      "password": "hashed_password_11",
+      "mobile": "+12345678911",
+      "role": "EMPLOYEE",
+      "enabled": true,
+      "createdAt": "2025-01-11T12:00:00Z"
+    },
+    {
+      "id": 12,
+      "fullName": "Patricia Garcia",
+      "email": "patricia.garcia@example.com",
+      "password": "hashed_password_12",
+      "mobile": "+12345678912",
+      "role": "EMPLOYEE",
+      "enabled": true,
+      "createdAt": "2025-01-12T14:00:00Z"
+    },
+    {
+      "id": 13,
+      "fullName": "Charles White",
+      "email": "charles.white@example.com",
+      "password": "hashed_password_13",
+      "mobile": "+12345678913",
+      "role": "EMPLOYEE",
+      "enabled": true,
+      "createdAt": "2025-01-13T11:00:00Z"
+    },
+    {
+      "id": 14,
+      "fullName": "Jennifer Clark",
+      "email": "jennifer.clark@example.com",
+      "password": "hashed_password_14",
+      "mobile": "+12345678914",
+      "role": "EMPLOYEE",
+      "enabled": true,
+      "createdAt": "2025-01-14T10:00:00Z"
+    },
+    {
+      "id": 15,
+      "fullName": "Steven Harris",
+      "email": "steven.harris@example.com",
+      "password": "hashed_password_15",
+      "mobile": "+12345678915",
+      "role": "EMPLOYEE",
+      "enabled": true,
+      "createdAt": "2025-01-15T09:00:00Z"
+    },
+    {
+      "id": 16,
+      "fullName": "Nancy Lewis",
+      "email": "nancy.lewis@example.com",
+      "password": "hashed_password_16",
+      "mobile": "+12345678916",
+      "role": "EMPLOYEE",
+      "enabled": true,
+      "createdAt": "2025-01-16T13:00:00Z"
+    },
+    {
+      "id": 17,
+      "fullName": "Paul Walker",
+      "email": "paul.walker@example.com",
+      "password": "hashed_password_17",
+      "mobile": "+12345678917",
+      "role": "EMPLOYEE",
+      "enabled": true,
+      "createdAt": "2025-01-17T12:00:00Z"
+    },
+    {
+      "id": 18,
+      "fullName": "Karen Young",
+      "email": "karen.young@example.com",
+      "password": "hashed_password_18",
+      "mobile": "+12345678918",
+      "role": "EMPLOYEE",
+      "enabled": true,
+      "createdAt": "2025-01-18T11:00:00Z"
+    },
+    {
+      "id": 19,
+      "fullName": "Daniel King",
+      "email": "daniel.king@example.com",
+      "password": "hashed_password_19",
+      "mobile": "+12345678919",
+      "role": "EMPLOYEE",
+      "enabled": true,
+      "createdAt": "2025-01-19T10:00:00Z"
+    },
+    {
+      "id": 20,
+      "fullName": "Susan Wright",
+      "email": "susan.wright@example.com",
+      "password": "hashed_password_20",
+      "mobile": "+12345678920",
+      "role": "EMPLOYEE",
+      "enabled": true,
+      "createdAt": "2025-01-20T14:00:00Z"
+    }
+  ],
+  "departments": [
+    {
+      "id": 1,
+      "name": "IT",
+      "description": "Information Technology Department"
+    },
+    {
+      "id": 2,
+      "name": "HR",
+      "description": "Human Resources Department"
+    },
+    {
+      "id": 3,
+      "name": "Finance",
+      "description": "Finance and Accounting Department"
+    },
+    {
+      "id": 4,
+      "name": "Marketing",
+      "description": "Marketing and Sales Department"
+    },
+    {
+      "id": 5,
+      "name": "Operations",
+      "description": "Operations and Logistics Department"
+    }
+  ],
+  "employees": [
+    {
+      "id": 2,
+      "employeeCode": "EMP001",
+      "dob": "1990-05-15",
+      "doj": "2023-01-10",
+      "departmentId": 1,
+      "designation": "Software Engineer",
+      "salary": 75000.00
+    },
+    {
+      "id": 3,
+      "employeeCode": "EMP002",
+      "dob": "1988-08-22",
+      "doj": "2022-06-15",
+      "departmentId": 1,
+      "designation": "Senior Developer",
+      "salary": 90000.00
+    },
+    {
+      "id": 4,
+      "employeeCode": "EMP003",
+      "dob": "1992-03-10",
+      "doj": "2023-03-01",
+      "departmentId": 2,
+      "designation": "HR Manager",
+      "salary": 65000.00
+    },
+    {
+      "id": 5,
+      "employeeCode": "EMP004",
+      "dob": "1991-11-25",
+      "doj": "2021-09-01",
+      "departmentId": 2,
+      "designation": "HR Assistant",
+      "salary": 45000.00
+    },
+    {
+      "id": 6,
+      "employeeCode": "EMP005",
+      "dob": "1989-07-12",
+      "doj": "2022-11-10",
+      "departmentId": 3,
+      "designation": "Accountant",
+      "salary": 60000.00
+    },
+    {
+      "id": 7,
+      "employeeCode": "EMP006",
+      "dob": "1993-02-18",
+      "doj": "2023-02-15",
+      "departmentId": 3,
+      "designation": "Financial Analyst",
+      "salary": 70000.00
+    },
+    {
+      "id": 8,
+      "employeeCode": "EMP007",
+      "dob": "1990-09-30",
+      "doj": "2022-07-20",
+      "departmentId": 4,
+      "designation": "Marketing Specialist",
+      "salary": 55000.00
+    },
+    {
+      "id": 9,
+      "employeeCode": "EMP008",
+      "dob": "1987-12-05",
+      "doj": "2021-12-01",
+      "departmentId": 4,
+      "designation": "Marketing Manager",
+      "salary": 80000.00
+    },
+    {
+      "id": 10,
+      "employeeCode": "EMP009",
+      "dob": "1994-04-20",
+      "doj": "2023-04-10",
+      "departmentId": 5,
+      "designation": "Operations Coordinator",
+      "salary": 50000.00
+    },
+    {
+      "id": 11,
+      "employeeCode": "EMP010",
+      "dob": "1991-06-15",
+      "doj": "2022-08-05",
+      "departmentId": 5,
+      "designation": "Operations Manager",
+      "salary": 75000.00
+    },
+    {
+      "id": 12,
+      "employeeCode": "EMP011",
+      "dob": "1989-10-10",
+      "doj": "2022-10-01",
+      "departmentId": 1,
+      "designation": "DevOps Engineer",
+      "salary": 85000.00
+    },
+    {
+      "id": 13,
+      "employeeCode": "EMP012",
+      "dob": "1992-01-25",
+      "doj": "2023-01-20",
+      "departmentId": 2,
+      "designation": "Recruitment Specialist",
+      "salary": 55000.00
+    },
+    {
+      "id": 14,
+      "employeeCode": "EMP013",
+      "dob": "1990-03-12",
+      "doj": "2022-05-15",
+      "departmentId": 3,
+      "designation": "Tax Consultant",
+      "salary": 65000.00
+    },
+    {
+      "id": 15,
+      "employeeCode": "EMP014",
+      "dob": "1993-07-08",
+      "doj": "2023-06-01",
+      "departmentId": 4,
+      "designation": "Content Creator",
+      "salary": 50000.00
+    },
+    {
+      "id": 16,
+      "employeeCode": "EMP015",
+      "dob": "1988-11-20",
+      "doj": "2022-03-10",
+      "departmentId": 5,
+      "designation": "Logistics Coordinator",
+      "salary": 60000.00
+    },
+    {
+      "id": 17,
+      "employeeCode": "EMP016",
+      "dob": "1991-09-05",
+      "doj": "2022-09-01",
+      "departmentId": 1,
+      "designation": "Frontend Developer",
+      "salary": 70000.00
+    },
+    {
+      "id": 18,
+      "employeeCode": "EMP017",
+      "dob": "1990-02-15",
+      "doj": "2023-02-01",
+      "departmentId": 2,
+      "designation": "HR Coordinator",
+      "salary": 50000.00
+    },
+    {
+      "id": 19,
+      "employeeCode": "EMP018",
+      "dob": "1989-04-30",
+      "doj": "2022-04-15",
+      "departmentId": 3,
+      "designation": "Payroll Specialist",
+      "salary": 55000.00
+    },
+    {
+      "id": 20,
+      "employeeCode": "EMP019",
+      "dob": "1992-08-10",
+      "doj": "2023-05-10",
+      "departmentId": 4,
+      "designation": "Social Media Manager",
+      "salary": 60000.00
+    }
+  ],
+  "attendances": [
+    {
+      "id": 1,
+      "employeeId": 2,
+      "date": "2025-07-01",
+      "status": "PRESENT",
+      "checkIn": "09:00:00",
+      "checkOut": "17:00:00"
+    },
+    {
+      "id": 2,
+      "employeeId": 2,
+      "date": "2025-07-02",
+      "status": "PRESENT",
+      "checkIn": "09:05:00",
+      "checkOut": "17:10:00"
+    },
+    {
+      "id": 3,
+      "employeeId": 3,
+      "date": "2025-07-01",
+      "status": "PRESENT",
+      "checkIn": "08:55:00",
+      "checkOut": "17:15:00"
+    },
+    {
+      "id": 4,
+      "employeeId": 3,
+      "date": "2025-07-02",
+      "status": "ABSENT",
+      "checkIn": null,
+      "checkOut": null
+    },
+    {
+      "id": 5,
+      "employeeId": 4,
+      "date": "2025-07-01",
+      "status": "PRESENT",
+      "checkIn": "09:10:00",
+      "checkOut": "17:00:00"
+    },
+    {
+      "id": 6,
+      "employeeId": 4,
+      "date": "2025-07-02",
+      "status": "LEAVE",
+      "checkIn": null,
+      "checkOut": null
+    },
+    {
+      "id": 7,
+      "employeeId": 5,
+      "date": "2025-07-01",
+      "status": "PRESENT",
+      "checkIn": "09:00:00",
+      "checkOut": "17:00:00"
+    },
+    {
+      "id": 8,
+      "employeeId": 6,
+      "date": "2025-07-01",
+      "status": "PRESENT",
+      "checkIn": "08:50:00",
+      "checkOut": "17:20:00"
+    },
+    {
+      "id": 9,
+      "employeeId": 7,
+      "date": "2025-07-01",
+      "status": "PRESENT",
+      "checkIn": "09:15:00",
+      "checkOut": "17:10:00"
+    },
+    {
+      "id": 10,
+      "employeeId": 8,
+      "date": "2025-07-01",
+      "status": "PRESENT",
+      "checkIn": "09:00:00",
+      "checkOut": "17:00:00"
+    },
+    {
+      "id": 11,
+      "employeeId": 9,
+      "date": "2025-07-01",
+      "status": "PRESENT",
+      "checkIn": "08:45:00",
+      "checkOut": "17:30:00"
+    },
+    {
+      "id": 12,
+      "employeeId": 10,
+      "date": "2025-07-01",
+      "status": "PRESENT",
+      "checkIn": "09:00:00",
+      "checkOut": "17:00:00"
+    },
+    {
+      "id": 13,
+      "employeeId": 11,
+      "date": "2025-07-01",
+      "status": "PRESENT",
+      "checkIn": "09:05:00",
+      "checkOut": "17:15:00"
+    },
+    {
+      "id": 14,
+      "employeeId": 12,
+      "date": "2025-07-01",
+      "status": "PRESENT",
+      "checkIn": "09:00:00",
+      "checkOut": "17:00:00"
+    },
+    {
+      "id": 15,
+      "employeeId": 13,
+      "date": "2025-07-01",
+      "status": "PRESENT",
+      "checkIn": "09:10:00",
+      "checkOut": "17:00:00"
+    },
+    {
+      "id": 16,
+      "employeeId": 14,
+      "date": "2025-07-01",
+      "status": "PRESENT",
+      "checkIn": "09:00:00",
+      "checkOut": "17:00:00"
+    },
+    {
+      "id": 17,
+      "employeeId": 15,
+      "date": "2025-07-01",
+      "status": "PRESENT",
+      "checkIn": "09:05:00",
+      "checkOut": "17:10:00"
+    },
+    {
+      "id": 18,
+      "employeeId": 16,
+      "date": "2025-07-01",
+      "status": "PRESENT",
+      "checkIn": "09:00:00",
+      "checkOut": "17:00:00"
+    },
+    {
+      "id": 19,
+      "employeeId": 17,
+      "date": "2025-07-01",
+      "status": "PRESENT",
+      "checkIn": "09:00:00",
+      "checkOut": "17:00:00"
+    },
+    {
+      "id": 20,
+      "employeeId": 18,
+      "date": "2025-07-01",
+      "status": "PRESENT",
+      "checkIn": "09:10:00",
+      "checkOut": "17:00:00"
+    },
+    {
+      "id": 21,
+      "employeeId": 19,
+      "date": "2025-07-01",
+      "status": "PRESENT",
+      "checkIn": "09:00:00",
+      "checkOut": "17:00:00"
+    },
+    {
+      "id": 22,
+      "employeeId": 20,
+      "date": "2025-07-01",
+      "status": "PRESENT",
+      "checkIn": "09:05:00",
+      "checkOut": "17:15:00"
+    }
+  ],
+  "salary_slips": [
+    {
+      "id": 1,
+      "employeeId": 2,
+      "month": "July",
+      "year": 2025,
+      "basic": 50000.00,
+      "hra": 15000.00,
+      "deductions": 5000.00,
+      "netSalary": 60000.00,
+      "pdfUrl": "http://example.com/salary_slips/emp001_july2025.pdf",
+      "createdAt": "2025-07-31T10:00:00Z"
+    },
+    {
+      "id": 2,
+      "employeeId": 3,
+      "month": "July",
+      "year": 2025,
+      "basic": 60000.00,
+      "hra": 20000.00,
+      "deductions": 6000.00,
+      "netSalary": 74000.00,
+      "pdfUrl": "http://example.com/salary_slips/emp002_july2025.pdf",
+      "createdAt": "2025-07-31T10:00:00Z"
+    },
+    {
+      "id": 3,
+      "employeeId": 4,
+      "month": "July",
+      "year": 2025,
+      "basic": 45000.00,
+      "hra": 10000.00,
+      "deductions": 4000.00,
+      "netSalary": 51000.00,
+      "pdfUrl": "http://example.com/salary_slips/emp003_july2025.pdf",
+      "createdAt": "2025-07-31T10:00:00Z"
+    },
+    {
+      "id": 4,
+      "employeeId": 5,
+      "month": "July",
+      "year": 2025,
+      "basic": 30000.00,
+      "hra": 8000.00,
+      "deductions": 3000.00,
+      "netSalary": 35000.00,
+      "pdfUrl": "http://example.com/salary_slips/emp004_july2025.pdf",
+      "createdAt": "2025-07-31T10:00:00Z"
+    },
+    {
+      "id": 5,
+      "employeeId": 6,
+      "month": "July",
+      "year": 2025,
+      "basic": 40000.00,
+      "hra": 12000.00,
+      "deductions": 4000.00,
+      "netSalary": 48000.00,
+      "pdfUrl": "http://example.com/salary_slips/emp005_july2025.pdf",
+      "createdAt": "2025-07-31T10:00:00Z"
+    },
+    {
+      "id": 6,
+      "employeeId": 7,
+      "month": "July",
+      "year": 2025,
+      "basic": 50000.00,
+      "hra": 15000.00,
+      "deductions": 5000.00,
+      "netSalary": 60000.00,
+      "pdfUrl": "http://example.com/salary_slips/emp006_july2025.pdf",
+      "createdAt": "2025-07-31T10:00:00Z"
+    },
+    {
+      "id": 7,
+      "employeeId": 8,
+      "month": "July",
+      "year": 2025,
+      "basic": 35000.00,
+      "hra": 10000.00,
+      "deductions": 3000.00,
+      "netSalary": 42000.00,
+      "pdfUrl": "http://example.com/salary_slips/emp007_july2025.pdf",
+      "createdAt": "2025-07-31T10:00:00Z"
+    },
+    {
+      "id": 8,
+      "employeeId": 9,
+      "month": "July",
+      "year": 2025,
+      "basic": 55000.00,
+      "hra": 15000.00,
+      "deductions": 5000.00,
+      "netSalary": 65000.00,
+      "pdfUrl": "http://example.com/salary_slips/emp008_july2025.pdf",
+      "createdAt": "2025-07-31T10:00:00Z"
+    },
+    {
+      "id": 9,
+      "employeeId": 10,
+      "month": "July",
+      "year": 2025,
+      "basic": 35000.00,
+      "hra": 10000.00,
+      "deductions": 3000.00,
+      "netSalary": 42000.00,
+      "pdfUrl": "http://example.com/salary_slips/emp009_july2025.pdf",
+      "createdAt": "2025-07-31T10:00:00Z"
+    },
+    {
+      "id": 10,
+      "employeeId": 11,
+      "month": "July",
+      "year": 2025,
+      "basic": 50000.00,
+      "hra": 15000.00,
+      "deductions": 5000.00,
+      "netSalary": 60000.00,
+      "pdfUrl": "http://example.com/salary_slips/emp010_july2025.pdf",
+      "createdAt": "2025-07-31T10:00:00Z"
+    },
+    {
+      "id": 11,
+      "employeeId": 12,
+      "month": "July",
+      "year": 2025,
+      "basic": 60000.00,
+      "hra": 20000.00,
+      "deductions": 6000.00,
+      "netSalary": 74000.00,
+      "pdfUrl": "http://example.com/salary_slips/emp011_july2025.pdf",
+      "createdAt": "2025-07-31T10:00:00Z"
+    },
+    {
+      "id": 12,
+      "employeeId": 13,
+      "month": "July",
+      "year": 2025,
+      "basic": 35000.00,
+      "hra": 10000.00,
+      "deductions": 3000.00,
+      "netSalary": 42000.00,
+      "pdfUrl": "http://example.com/salary_slips/emp012_july2025.pdf",
+      "createdAt": "2025-07-31T10:00:00Z"
+    },
+    {
+      "id": 13,
+      "employeeId": 14,
+      "month": "July",
+      "year": 2025,
+      "basic": 45000.00,
+      "hra": 12000.00,
+      "deductions": 4000.00,
+      "netSalary": 53000.00,
+      "pdfUrl": "http://example.com/salary_slips/emp013_july2025.pdf",
+      "createdAt": "2025-07-31T10:00:00Z"
+    },
+    {
+      "id": 14,
+      "employeeId": 15,
+      "month": "July",
+      "year": 2025,
+      "basic": 35000.00,
+      "hra": 10000.00,
+      "deductions": 3000.00,
+      "netSalary": 42000.00,
+      "pdfUrl": "http://example.com/salary_slips/emp014_july2025.pdf",
+      "createdAt": "2025-07-31T10:00:00Z"
+    },
+    {
+      "id": 15,
+      "employeeId": 16,
+      "month": "July",
+      "year": 2025,
+      "basic": 40000.00,
+      "hra": 12000.00,
+      "deductions": 4000.00,
+      "netSalary": 48000.00,
+      "pdfUrl": "http://example.com/salary_slips/emp015_july2025.pdf",
+      "createdAt": "2025-07-31T10:00:00Z"
+    },
+    {
+      "id": 16,
+      "employeeId": 17,
+      "month": "July",
+      "year": 2025,
+      "basic": 50000.00,
+      "hra": 15000.00,
+      "deductions": 5000.00,
+      "netSalary": 60000.00,
+      "pdfUrl": "http://example.com/salary_slips/emp016_july2025.pdf",
+      "createdAt": "2025-07-31T10:00:00Z"
+    },
+    {
+      "id": 17,
+      "employeeId": 18,
+      "month": "July",
+      "year": 2025,
+      "basic": 35000.00,
+      "hra": 10000.00,
+      "deductions": 3000.00,
+      "netSalary": 42000.00,
+      "pdfUrl": "http://example.com/salary_slips/emp017_july2025.pdf",
+      "createdAt": "2025-07-31T10:00:00Z"
+    },
+    {
+      "id": 18,
+      "employeeId": 19,
+      "month": "July",
+      "year": 2025,
+      "basic": 40000.00,
+      "hra": 12000.00,
+      "deductions": 4000.00,
+      "netSalary": 48000.00,
+      "pdfUrl": "http://example.com/salary_slips/emp018_july2025.pdf",
+      "createdAt": "2025-07-31T10:00:00Z"
+    },
+    {
+      "id": 19,
+      "employeeId": 20,
+      "month": "July",
+      "year": 2025,
+      "basic": 45000.00,
+      "hra": 12000.00,
+      "deductions": 4000.00,
+      "netSalary": 53000.00,
+      "pdfUrl": "http://example.com/salary_slips/emp019_july2025.pdf",
+      "createdAt": "2025-07-31T10:00:00Z"
+    }
+  ],
+  "leaves": [
+    {
+      "id": 1,
+      "employeeId": 2,
+      "startDate": "2025-07-10",
+      "endDate": "2025-07-12",
+      "reason": "Personal Leave",
+      "status": "APPROVED",
+      "appliedAt": "2025-07-01T10:00:00Z"
+    },
+    {
+      "id": 2,
+      "employeeId": 3,
+      "startDate": "2025-07-15",
+      "endDate": "2025-07-16",
+      "reason": "Medical Leave",
+      "status": "APPROVED",
+      "appliedAt": "2025-07-05T10:00:00Z"
+    },
+    {
+      "id": 3,
+      "employeeId": 4,
+      "startDate": "2025-07-02",
+      "endDate": "2025-07-03",
+      "reason": "Family Emergency",
+      "status": "APPROVED",
+      "appliedAt": "2025-06-30T10:00:00Z"
+    },
+    {
+      "id": 4,
+      "employeeId": 5,
+      "startDate": "2025-07-20",
+      "endDate": "2025-07-22",
+      "reason": "Vacation",
+      "status": "PENDING",
+      "appliedAt": "2025-07-10T10:00:00Z"
+    },
+    {
+      "id": 5,
+      "employeeId": 6,
+      "startDate": "2025-07-25",
+      "endDate": "2025-07-26",
+      "reason": "Personal Leave",
+      "status": "REJECTED",
+      "appliedAt": "2025-07-15T10:00:00Z"
+    },
+    {
+      "id": 6,
+      "employeeId": 7,
+      "startDate": "2025-07-08",
+      "endDate": "2025-07-09",
+      "reason": "Medical Leave",
+      "status": "APPROVED",
+      "appliedAt": "2025-07-01T10:00:00Z"
+    },
+    {
+      "id": 7,
+      "employeeId": 8,
+      "startDate": "2025-07-12",
+      "endDate": "2025-07-14",
+      "reason": "Vacation",
+      "status": "APPROVED",
+      "appliedAt": "2025-07-02T10:00:00Z"
+    },
+    {
+      "id": 8,
+      "employeeId": 9,
+      "startDate": "2025-07-18",
+      "endDate": "2025-07-19",
+      "reason": "Personal Leave",
+      "status": "PENDING",
+      "appliedAt": "2025-07-08T10:00:00Z"
+    },
+    {
+      "id": 9,
+      "employeeId": 10,
+      "startDate": "2025-07-22",
+      "endDate": "2025-07-23",
+      "reason": "Family Emergency",
+      "status": "APPROVED",
+      "appliedAt": "2025-07-12T10:00:00Z"
+    },
+    {
+      "id": 10,
+      "employeeId": 11,
+      "startDate": "2025-07-05",
+      "endDate": "2025-07-06",
+      "reason": "Vacation",
+      "status": "APPROVED",
+      "appliedAt": "2025-06-25T10:00:00Z"
+    },
+    {
+      "id": 11,
+      "employeeId": 12,
+      "startDate": "2025-07-10",
+      "endDate": "2025-07-11",
+      "reason": "Medical Leave",
+      "status": "APPROVED",
+      "appliedAt": "2025-07-01T10:00:00Z"
+    },
+    {
+      "id": 12,
+      "employeeId": 13,
+      "startDate": "2025-07-15",
+      "endDate": "2025-07-16",
+      "reason": "Personal Leave",
+      "status": "PENDING",
+      "appliedAt": "2025-07-05T10:00:00Z"
+    },
+    {
+      "id": 13,
+      "employeeId": 14,
+      "startDate": "2025-07-20",
+      "endDate": "2025-07-21",
+      "reason": "Vacation",
+      "status": "APPROVED",
+      "appliedAt": "2025-07-10T10:00:00Z"
+    },
+    {
+      "id": 14,
+      "employeeId": 15,
+      "startDate": "2025-07-25",
+      "endDate": "2025-07-26",
+      "reason": "Family Emergency",
+      "status": "REJECTED",
+      "appliedAt": "2025-07-15T10:00:00Z"
+    },
+    {
+      "id": 15,
+      "employeeId": 16,
+      "startDate": "2025-07-08",
+      "endDate": "2025-07-09",
+      "reason": "Medical Leave",
+      "status": "APPROVED",
+      "appliedAt": "2025-07-01T10:00:00Z"
+    },
+    {
+      "id": 16,
+      "employeeId": 17,
+      "startDate": "2025-07-12",
+      "endDate": "2025-07-13",
+      "reason": "Vacation",
+      "status": "APPROVED",
+      "appliedAt": "2025-07-02T10:00:00Z"
+    },
+    {
+      "id": 17,
+      "employeeId": 18,
+      "startDate": "2025-07-18",
+      "endDate": "2025-07-19",
+      "reason": "Personal Leave",
+      "status": "PENDING",
+      "appliedAt": "2025-07-08T10:00:00Z"
+    },
+    {
+      "id": 18,
+      "employeeId": 19,
+      "startDate": "2025-07-22",
+      "endDate": "2025-07-23",
+      "reason": "Family Emergency",
+      "status": "APPROVED",
+      "appliedAt": "2025-07-12T10:00:00Z"
+    },
+    {
+      "id": 19,
+      "employeeId": 20,
+      "startDate": "2025-07-05",
+      "endDate": "2025-07-06",
+      "reason": "Vacation",
+      "status": "APPROVED",
+      "appliedAt": "2025-06-25T10:00:00Z"
+    }
+  ],
+  "payrolls": [
+    {
+      "id": 1,
+      "employeeId": 2,
+      "payrollDate": "2025-07-31",
+      "basicSalary": 50000.00,
+      "allowances": 15000.00,
+      "deductions": 5000.00,
+      "netPay": 60000.00,
+      "status": "PAID",
+      "generatedDate": "2025-07-30",
+      "paidDate": "2025-07-31"
+    },
+    {
+      "id": 2,
+      "employeeId": 3,
+      "payrollDate": "2025-07-31",
+      "basicSalary": 60000.00,
+      "allowances": 20000.00,
+      "deductions": 6000.00,
+      "netPay": 74000.00,
+      "status": "PAID",
+      "generatedDate": "2025-07-30",
+      "paidDate": "2025-07-31"
+    },
+    {
+      "id": 3,
+      "employeeId": 4,
+      "payrollDate": "2025-07-31",
+      "basicSalary": 45000.00,
+      "allowances": 10000.00,
+      "deductions": 4000.00,
+      "netPay": 51000.00,
+      "status": "PAID",
+      "generatedDate": "2025-07-30",
+      "paidDate": "2025-07-31"
+    },
+    {
+      "id": 4,
+      "employeeId": 5,
+      "payrollDate": "2025-07-31",
+      "basicSalary": 30000.00,
+      "allowances": 8000.00,
+      "deductions": 3000.00,
+      "netPay": 35000.00,
+      "status": "PAID",
+      "generatedDate": "2025-07-30",
+      "paidDate": "2025-07-31"
+    },
+    {
+      "id": 5,
+      "employeeId": 6,
+      "payrollDate": "2025-07-31",
+      "basicSalary": 40000.00,
+      "allowances": 12000.00,
+      "deductions": 4000.00,
+      "netPay": 48000.00,
+      "status": "PAID",
+      "generatedDate": "2025-07-30",
+      "paidDate": "2025-07-31"
+    },
+    {
+      "id": 6,
+      "employeeId": 7,
+      "payrollDate": "2025-07-31",
+      "basicSalary": 50000.00,
+      "allowances": 15000.00,
+      "deductions": 5000.00,
+      "netPay": 60000.00,
+      "status": "PAID",
+      "generatedDate": "2025-07-30",
+      "paidDate": "2025-07-31"
+    },
+    {
+      "id": 7,
+      "employeeId": 8,
+      "payrollDate": "2025-07-31",
+      "basicSalary": 35000.00,
+      "allowances": 10000.00,
+      "deductions": 3000.00,
+      "netPay": 42000.00,
+      "status": "PAID",
+      "generatedDate": "2025-07-30",
+      "paidDate": "2025-07-31"
+    },
+    {
+      "id": 8,
+      "employeeId": 9,
+      "payrollDate": "2025-07-31",
+      "basicSalary": 55000.00,
+      "allowances": 15000.00,
+      "deductions": 5000.00,
+      "netPay": 65000.00,
+      "status": "PAID",
+      "generatedDate": "2025-07-30",
+      "paidDate": "2025-07-31"
+    },
+    {
+      "id": 9,
+      "employeeId": 10,
+      "payrollDate": "2025-07-31",
+      "basicSalary": 35000.00,
+      "allowances": 10000.00,
+      "deductions": 3000.00,
+      "netPay": 42000.00,
+      "status": "PAID",
+      "generatedDate": "2025-07-30",
+      "paidDate": "2025-07-31"
+    },
+    {
+      "id": 10,
+      "employeeId": 11,
+      "payrollDate": "2025-07-31",
+      "basicSalary": 50000.00,
+      "allowances": 15000.00,
+      "deductions": 5000.00,
+      "netPay": 60000.00,
+      "status": "PAID",
+      "generatedDate": "2025-07-30",
+      "paidDate": "2025-07-31"
+    },
+    {
+      "id": 11,
+      "employeeId": 12,
+      "payrollDate": "2025-07-31",
+      "basicSalary": 60000.00,
+      "allowances": 20000.00,
+      "deductions": 6000.00,
+      "netPay": 74000.00,
+      "status": "PAID",
+      "generatedDate": "2025-07-30",
+      "paidDate": "2025-07-31"
+    },
+    {
+      "id": 12,
+      "employeeId": 13,
+      "payrollDate": "2025-07-31",
+      "basicSalary": 35000.00,
+      "allowances": 10000.00,
+      "deductions": 3000.00,
+      "netPay": 42000.00,
+      "status": "PAID",
+      "generatedDate": "2025-07-30",
+      "paidDate": "2025-07-31"
+    },
+    {
+      "id": 13,
+      "employeeId": 14,
+      "payrollDate": "2025-07-31",
+      "basicSalary": 45000.00,
+      "allowances": 12000.00,
+      "deductions": 4000.00,
+      "netPay": 53000.00,
+      "status": "PAID",
+      "generatedDate": "2025-07-30",
+      "paidDate": "2025-07-31"
+    },
+    {
+      "id": 14,
+      "employeeId": 15,
+      "payrollDate": "2025-07-31",
+      "basicSalary": 35000.00,
+      "allowances": 10000.00,
+      "deductions": 3000.00,
+      "netPay": 42000.00,
+      "status": "PAID",
+      "generatedDate": "2025-07-30",
+      "paidDate": "2025-07-31"
+    },
+    {
+      "id": 15,
+      "employeeId": 16,
+      "payrollDate": "2025-07-31",
+      "basicSalary": 40000.00,
+      "allowances": 12000.00,
+      "deductions": 4000.00,
+      "netPay": 48000.00,
+      "status": "PAID",
+      "generatedDate": "2025-07-30",
+      "paidDate": "2025-07-31"
+    },
+    {
+      "id": 16,
+      "employeeId": 17,
+      "payrollDate": "2025-07-31",
+      "basicSalary": 50000.00,
+      "allowances": 15000.00,
+      "deductions": 5000.00,
+      "netPay": 60000.00,
+      "status": "PAID",
+      "generatedDate": "2025-07-30",
+      "paidDate": "2025-07-31"
+    },
+    {
+      "id": 17,
+      "employeeId": 18,
+      "payrollDate": "2025-07-31",
+      "basicSalary": 35000.00,
+      "allowances": 10000.00,
+      "deductions": 3000.00,
+      "netPay": 42000.00,
+      "status": "PAID",
+      "generatedDate": "2025-07-30",
+      "paidDate": "2025-07-31"
+    },
+    {
+      "id": 18,
+      "employeeId": 19,
+      "payrollDate": "2025-07-31",
+      "basicSalary": 40000.00,
+      "allowances": 12000.00,
+      "deductions": 4000.00,
+      "netPay": 48000.00,
+      "status": "PAID",
+      "generatedDate": "2025-07-30",
+      "paidDate": "2025-07-31"
+    },
+    {
+      "id": 19,
+      "employeeId": 20,
+      "payrollDate": "2025-07-31",
+      "basicSalary": 45000.00,
+      "allowances": 12000.00,
+      "deductions": 4000.00,
+      "netPay": 53000.00,
+      "status": "PAID",
+      "generatedDate": "2025-07-30",
+      "paidDate": "2025-07-31"
+    }
+  ]
+}

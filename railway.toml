@@ -1,0 +1,17 @@
+# railway.toml — Deploy Spring Boot + MySQL on Railway
+[build]
+builder = "DOCKERFILE"
+
+[deploy]
+numReplicas = 1
+restartPolicyType = "ON_FAILURE"
+restartPolicyMaxRetries = 3
+
+# Expose Spring Boot's default port
+[[services]]
+name = "logsnap-backend"
+startCommand = "java -jar app.jar"
+ports = ["8080"]
+healthcheckPath = "/actuator/health"
+autoDeploy = true
+
