@@ -46,22 +46,22 @@ public class SecurityConfig {
     // ✅ Provide CORS configuration here
     @Bean
     public CorsConfigurationSource corsConfigurationSource() {
-        CorsConfiguration configuration = new CorsConfiguration();
-        configuration.setAllowedOrigins(List.of(
-                "http://localhost:3000"
-//                "http://172.16.16.57:3000",
-//                "https://8fe710de7e7b.ngrok-free.app", // ✅ new frontend ngrok
-//                "https://35ec6f6d44b3.ngrok-free.app"  // ✅ new backend ngrok
+        CorsConfiguration config = new CorsConfiguration();
+
+        config.setAllowedOrigins(List.of(
+                "https://logsnap.vercel.app",   // ⭐ Your Vercel frontend
+                "http://localhost:3000"         // ⭐ Local testing
         ));
-        configuration.addAllowedOriginPattern("*");
-        configuration.setAllowedMethods(Arrays.asList("GET", "POST", "PUT", "DELETE", "OPTIONS"));
-        configuration.setAllowedHeaders(List.of("*"));
-        configuration.setAllowCredentials(true);
+
+        config.setAllowedMethods(List.of("GET", "POST", "PUT", "DELETE", "OPTIONS"));
+        config.setAllowedHeaders(List.of("*"));
+        config.setAllowCredentials(true);
 
         UrlBasedCorsConfigurationSource source = new UrlBasedCorsConfigurationSource();
-        source.registerCorsConfiguration("/**", configuration);
+        source.registerCorsConfiguration("/**", config);
         return source;
     }
+
 
     @Bean
     public BCryptPasswordEncoder passwordEncoder() {
