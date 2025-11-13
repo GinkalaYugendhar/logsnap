@@ -48,10 +48,10 @@ public class SecurityConfig {
     public CorsConfigurationSource corsConfigurationSource() {
         CorsConfiguration configuration = new CorsConfiguration();
         configuration.setAllowedOrigins(List.of(
-                "http://localhost:3000",
+                "http://localhost:3000"
 //                "http://172.16.16.57:3000",
-                "https://8fe710de7e7b.ngrok-free.app", // ✅ new frontend ngrok
-                "https://35ec6f6d44b3.ngrok-free.app"  // ✅ new backend ngrok
+//                "https://8fe710de7e7b.ngrok-free.app", // ✅ new frontend ngrok
+//                "https://35ec6f6d44b3.ngrok-free.app"  // ✅ new backend ngrok
         ));
         configuration.addAllowedOriginPattern("*");
         configuration.setAllowedMethods(Arrays.asList("GET", "POST", "PUT", "DELETE", "OPTIONS"));
